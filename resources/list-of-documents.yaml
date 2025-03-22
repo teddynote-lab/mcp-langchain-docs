@@ -1,0 +1,4 @@
+- name: LangChain Python Wiki
+  llms_txt: https://raw.githubusercontent.com/teddynote-lab/mcp-langchain-docs/refs/heads/main/resources/langchain-wiki.md
+- name: LangGraph Python Wiki
+  llms_txt: https://raw.githubusercontent.com/teddynote-lab/mcp-langchain-docs/refs/heads/main/resources/langgraph-wiki.md
